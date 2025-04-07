@@ -35,6 +35,7 @@ body {
   margin-top: -9rem;
   font-size: 14px;
   letter-spacing: 1px;
+  font-family: monospace;
 }
 .clock::before {
   content: "";
